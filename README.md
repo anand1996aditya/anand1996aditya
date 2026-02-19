@@ -12,8 +12,8 @@
   #### Links
   - [SECUREU](https://secureu.in) — Cybersecurity services
   - [Sentrinus](https://sentrinus.com) — Endpoint protection
-  - [LinkedIn](https://www.linkedin.com/in/aditya12anand/) - 
-  - [Twitter](https://twitter.com/aditya12anand) — Building in public
+  - [LinkedIn](https://www.linkedin.com/in/aditya12anand/)  
+  - [Twitter](https://twitter.com/aditya12anand) 
 
   ---
 
