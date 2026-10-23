@@ -1,6 +1,6 @@
   ### Hey, I'm Aditya
 
-  Founder of **SECUREU** (cybersecurity services) and building **Sentrinus** - (endpoint protection for SMBs).
+  Founder of **SECUREU** (cybersecurity services) and building **Sentrinus** - (endpoint protection for Enterprise).
 
   I love cybersecurity and I am currently heavily tinkering AI. 
 
